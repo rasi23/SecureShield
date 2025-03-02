@@ -77,6 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Connect
 Let's connect on LinkedIn and GitHub!
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/rasindu-vimansha/)
 
 ---
