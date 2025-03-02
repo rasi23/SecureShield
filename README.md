@@ -55,7 +55,7 @@ The following ML models were evaluated, and their performance was compared:
 For detailed implementation, refer to **Phishingproject.ipynb**.
 
 **The bar graph comparing the performance of different machine learning models based on Accuracy, F1-score, Recall, and Precision.**
-![Project Image](image3) 
+![Project Image]([image3](https://github.com/rasi23/SecureShield/blob/main/image3.png)) 
 
 ## 📌 Conclusion
 
